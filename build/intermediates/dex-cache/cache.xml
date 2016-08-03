@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/brst-pc17/Desktop/Custom-Calendar-View-master/app/build/intermediates/exploded-aar/Custom-Calendar-View-master/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2128bdca53e61efc0bddf8d58b2cf598e49ab14c">
+        <dex dex="/home/brst-pc17/Desktop/Custom-Calendar-View-master/app/build/intermediates/pre-dexed/debug/classes-998f84278f7b13b6bc24ca3741185857d28aa3af.jar" />
+    </item>
+
+</items>
